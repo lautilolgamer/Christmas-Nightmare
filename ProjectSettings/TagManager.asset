@@ -10,6 +10,10 @@ TagManager:
   - Door_1
   - Door_2
   - Door_3
+  - VentDoor
+  - Screwdriver
+  - Hammer
+  - Woods
   layers:
   - Default
   - TransparentFX
