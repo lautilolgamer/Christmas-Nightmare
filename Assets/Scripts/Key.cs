@@ -137,7 +137,7 @@ public class Key : MonoBehaviour
             else
             {
                 //You dont have the first key
-                msjPrincipal.text = "Objects needed: The Screwdriver";
+                msjPrincipal.text = "Objects needed: Screwdriver";
                 msjPrincipal.enabled = true;
                 objetoReciente = objetoColisionado;
             }
